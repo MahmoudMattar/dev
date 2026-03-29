@@ -1,15 +1,62 @@
-# What is this?
+# 👋 Hi, I'm Mattar
 
-The github.dev web-based editor is a lightweight editing experience that runs entirely in your browser. You can navigate files and source code repositories from GitHub, and make and commit code changes.
+### Building scalable frontend platforms & systems
 
-There are two ways to go directly to a VS Code environment in your browser and start coding:
+---
 
-* Press the . key on any repository or pull request.
-* Swap `.com` with `.dev` in the URL. For example, this repo https://github.com/github/dev becomes http://github.dev/github/dev
+## 🧠 About Me
 
-Preview the gif below to get a quick demo of github.dev in action.
+I design and build scalable, maintainable frontend architectures with a focus on microfrontends, design systems, and high-performance web applications.
 
-![github dev](https://user-images.githubusercontent.com/856858/130119109-4769f2d7-9027-4bc4-a38c-10f297499e8f.gif)
+I care about clean code, strong foundations, and creating systems that enable teams to move faster and build confidently.
 
-# Why?
-It’s a quick way to edit and navigate code. It's especially useful if you want to edit multiple files at a time or take advantage of all the powerful code editing features of Visual Studio Code when making a quick change. For more information, see our [documentation](https://github.co/codespaces-editor-help).
+---
+
+## ⚙️ Tech Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge)
+![Microfrontends](https://img.shields.io/badge/Microfrontends-Architecture-444?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+
+---
+
+## 🏗️ What I Do
+
+- Architect scalable frontend systems  
+- Build microfrontend-based platforms  
+- Design and maintain design systems  
+- Optimize performance and developer experience  
+- Drive clean, maintainable codebases  
+
+---
+
+## 📈 Current Focus
+
+- Scaling frontend architectures  
+- Advanced data-fetching patterns (TanStack Query)  
+- Cross-team UI platforms & shared systems  
+
+---
+
+## 📊 GitHub Stats
+
+![Mattar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
+
+---
+
+## 🔗 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
+
+---
+
+## ⚡ Philosophy
+
+> Build systems, not just features  
+> Optimize for scale, performance, and developer experience
